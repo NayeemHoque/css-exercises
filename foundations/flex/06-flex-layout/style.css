@@ -28,20 +28,14 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 0px 32px;
 }
 
-.left-links {
+ul {
   display: flex;
   list-style-type: none;
   gap: 32px;
-  
-}
-
-.right-links {
-  display: flex;
-  list-style-type: none;
-  gap: 32px;
-  margin-right: 40px;
+  padding: 0px;
 }
 
 a {
@@ -56,3 +50,4 @@ a {
   align-items: center;
   gap: 16px;
 }
+
