@@ -63,7 +63,6 @@ button {
   justify-content: space-between;
   padding: 0px 32px;
   background-color: #eeeeee;
-  align-items: flex-end;
-  font-weight: 300;
+  align-items: center;
 }
 
