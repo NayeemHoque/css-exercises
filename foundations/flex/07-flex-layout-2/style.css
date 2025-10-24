@@ -53,11 +53,13 @@ ul {
 
 .box-1 {
   display: flex;
+  flex-grow: 1;
 }
 
 .box-2 {
   display: flex;
-  width: 1684px;
+  width: 2000px;
+  height: 1100px;
   flex-wrap: wrap;
   padding: 40px;
   gap: 32px;
